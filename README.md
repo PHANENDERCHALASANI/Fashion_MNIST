@@ -3,3 +3,4 @@ The Fashion MNIST dataset is a large freely available database of fashion images
 The dataset contains 70,000 28x28 grayscale images of fashion products from 10 categories from a dataset of Zalando article images, with 7,000 images per category. The training set consists of 60,000 images and the test set consists of 10,000 images. The dataset is commonly included in standard machine learning libraries. 
 
 In this project we compared three models(CNN, KNN and SVM). CNN showed the best performance with an accuracy of 91.2%
+You can find the article here: https://medium.com/@phanenderchalasani_2907/optimizing-fashion-mnist-classification-a-comparative-study-of-machine-learning-models-and-a3ea474b1209
